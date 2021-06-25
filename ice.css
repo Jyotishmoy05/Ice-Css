@@ -1,0 +1,17 @@
+/* Text-Color */
+
+.text-transparent {
+  color: transparent;
+}
+.text-black {
+  color: black;
+}
+.text-white {
+  color: white;
+}
+.text-gray-50 {
+  color: #F9FAFB;
+}
+.text-gray-100 {
+  color: #F3F4F6;
+}
