@@ -9,9 +9,73 @@
 .text-white {
   color: white;
 }
-.text-gray-50 {
+.text-gray {
+  color: #6B7280;
+}
+.text-gray-0 {
   color: #F9FAFB;
 }
-.text-gray-100 {
+.text-gray-1 {
   color: #F3F4F6;
+}
+.text-gray-2 {
+  color: #E5E7EB;
+}
+.text-gray-3 {
+  color: #D1D5DB;
+}
+.text-gray-4 {
+  color: #9CA3AF;
+}
+.text-gray-5 {
+  color: #6B7280;
+}
+.text-gray-6 {
+  color: #4B5563;
+}
+.text-gray-7 {
+  color: #374151;
+}
+.text-gray-8 {
+  color: #1F2937;
+}
+.text-gray-9 {
+  color: #111827;
+}
+
+
+/* Text-color-red */
+
+.text-red {
+  color: #EF4444;
+}
+.text-red-0 {
+  color: #FEF2F2;
+}
+.text-red-1 {
+  color: #FEE2E2;
+}
+.text-red-2 {
+  color: #FECACA;
+}
+.text-red-3 {
+  color: #FCA5A5;
+}
+.text-red-4 {
+  color: #F87171;
+}
+.text-red-5 {
+  color: #EF4444;
+}
+.text-red-6 {
+  color: #DC2626;
+}
+.text-red-7 {
+  color: #B91C1C;
+}
+.text-red-8 {
+  color: #991B1B;
+}
+.text-red-9 {
+  color: #7F1D1D;
 }
